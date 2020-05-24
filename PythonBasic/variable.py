@@ -21,7 +21,7 @@ def fuc_turtle():
 
 
 fuc_turtle()
-test_turtle.forward(110)
+test_turtle.forward(120)
 fuc_turtle()
-test_turtle.forward(110)
+test_turtle.forward(120)
 fuc_turtle()
